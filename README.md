@@ -8,6 +8,6 @@ Algorithm Template :
 
 Link : https://paste.ubuntu.com/p/8hP5G8Xv9p/
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/Mashfiq137/Images/blob/master/images.png)
 
 
